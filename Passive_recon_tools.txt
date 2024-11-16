@@ -1,0 +1,31 @@
+TOOLS OF KALI LINUX FOR RECON:
+
+				PASSIVE
+
+	• HOST website name
+	• NSLOOKUP 
+	• SUBFINDER
+	• TRACEROUTE
+	• DNSRECON -d
+	• WAF00F   -  to identify if website has firewall
+	• DIG
+	• WHOIS
+	• DNSDUMPSTER.COM
+	• WHATWEB
+	• THEHARVESTER
+	• SUBLIST3R
+	• GOOGLE DORKING
+	• RECON-NG
+	• ASSET FINDER
+	• CRT.SH
+	• GAU (get all URLs) 
+	• GOSPIDER
+	• PARAMSPIDER
+	• ARJUN  to find parameters in URL
+	• WAYBACK URLS
+	• GF  - to find the list of vulnerability among list of URLs
+	• QSREPLACE -  tool to replace the parameters with payloads
+	• NETCRAFT.COM  for dns and subdomains
+	• MXTOOLBOX.COM  for search dns records recon
+	• Burpsuite can be also used to perform scanning of website 
+	• MSFconsole can be used to enumerate dns recon and email finder using auxilary

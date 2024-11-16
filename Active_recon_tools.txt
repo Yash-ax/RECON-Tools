@@ -1,0 +1,32 @@
+								ACTIVE
+
+	• FIERCE --domain
+	• KNOCKPY (subdomains)
+	• NMAP  - can use predefined scripts present in usr/bin/nmap/scripts following syntax also firewall bypass 
+	• SEARCHSPLOIT  attack name/vulnerability  - use to find a exploit from exploitdb
+	• NIKTO
+	• DIRB  directory buster
+	• GOBUSTER
+	• WFUZZ
+	• ALL IN ONE RECON TOOL - https://github.com/1N3/Sn1per
+	• AMASS
+	• VIRUSTOTAL.COM   website to find subdomains
+	• PROJECTDISCOVERY.IO   for bug bounty listed websites & find subdomains
+	• HTTPX-TOOLKIT   to scan live/working in a list of subdomains  (cat allsubdomains | httpx -sc)
+	• OSINT FRAMEWORK
+	• WAPPALYZER  -  extension
+	• RETIRE.JS -   to find JS vulnerability extension
+	• SHODAN -  to find open ports extension
+	• KNOXSS -  to find XSS extension
+	• HOSTILESUBBRUTEFORCER  -  to find sub domian takeover
+	• SUB404  -  find takeover subdomains from our list
+	• SUBJACK  same
+	• FFUF - tool used for fuzzing a webapplication (information disclousre)
+	• NAABU  - port scanning tool as nmap
+	• GOWITNESS  -  tool used to screenshot the websites(list of subs) works only on chrome
+	• DORKSEARCH.COM  - to find google dorks
+	• SHODAN DORKING ALSO WITH CLI
+	• NUCLEI - vulnerability scanning tool
+	• WPSCAN - vulnerability scanning tool for wordpress
+
+
