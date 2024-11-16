@@ -3,4 +3,12 @@ https://github.com/daffainfo/AllAboutBugBounty/
 https://github.com/1N3/Sn1per
 https://github.com/swisskyrepo/PayloadsAllTheThings
 
+Browser addons for recon : 
+1. Wappalyzer - https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/ 
+2. Retire.js  - https://addons.mozilla.org/en-US/firefox/addon/retire-js/ 
+3. Shodan - https://addons.mozilla.org/en-US/firefox/addon/shodan-addon/ 
+4. Knoxx - https://addons.mozilla.org/en-US/firefox/addon/knoxsscommunity-edition/ 
+5. Hack-Tools - https://addons.mozilla.org/en-US/firefox/addon/hacktools/ 
+
+
 
